@@ -9,21 +9,6 @@ Here is a screenshot of the application.
 
 ![App Screenshot](https://i.imgur.com/DtLF0GH.png)
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
-
-1. **Install Node on your machine**: Ensure that you have **Node** and **npm** or **Yarn** installed on your machine. To install Node and npm on your machine, see the [Node download page](https://nodejs.org/en/download/). If you prefer using [Yarn](https://yarnpkg.com/) as your package manager to using npm, you can [get Yarn here](https://yarnpkg.com/en/docs/install).
-
-2. **Create a Pusher application**: Create a new application on your [Pusher Dashboard](https://dashboard.pusher.com/) to get your app credentials.
-
-### Setup Instructions
-
-1. **Clone the repository** into a new directory on your machine.
-
-2. **Install the dependencies** by running the following command from the new directory.
 
 ```sh
 npm install
@@ -57,7 +42,3 @@ For `production`
 ```sh
 npm start
 ```
-
-## demo
-![image](https://user-images.githubusercontent.com/106511534/173307539-a5ecd5b7-cf7d-4ddd-9bd0-ccb271baec80.png)
-
